@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "teammates": {
+      "serverUrl": "https://api-hq.teammates.ai/mcp"
+    }
+  }
+}

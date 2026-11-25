@@ -1,0 +1,51 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "teammates",
+  "displayName": "Teammates.ai",
+  "version": "1.1.0",
+  "description": "Launch an AI-Run Business or delegate live operations to autonomous AI Teammates from your agent. Connects AI Engineer (websites and visuals), AI Co-Founder, Raya (support), Adam (B2B sales), and Sara (recruiting) over OAuth 2.1 with 1-tap founder approvals.",
+  "logo": "assets/logo.svg",
+  "category": [
+    "Business",
+    "Productivity"
+  ],
+  "suggestedPrompts": [
+    "Launch an AI-Run Business website from my brief and shoot campaign visuals",
+    "Have Adam find B2B leads and draft outreach, or ask Raya to update support docs",
+    "Check my Teammates.ai workspace status, Credit balance, and pending approvals"
+  ],
+  "author": {
+    "name": "Teammates.ai",
+    "email": "support@teammates.ai",
+    "url": "https://teammates.ai"
+  },
+  "homepage": "https://teammates.ai/mcp",
+  "repository": "https://github.com/UktobAI/teammates-plugin",
+  "license": "MIT",
+  "keywords": [
+    "teammates",
+    "teammates-ai",
+    "ai-teammates",
+    "ai-employees",
+    "ai-run-business",
+    "customer-support",
+    "helpdesk",
+    "sales",
+    "b2b-sales",
+    "outbound",
+    "lead-generation",
+    "recruiting",
+    "hiring",
+    "website-builder",
+    "landing-page",
+    "ai-engineer",
+    "ai-cofounder",
+    "ad-campaigns",
+    "marketing",
+    "business-automation",
+    "raya",
+    "adam",
+    "sara",
+    "mcp"
+  ]
+}
