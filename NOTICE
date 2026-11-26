@@ -1,0 +1,22 @@
+Teammates.ai Plugin
+Copyright 2026 Uktob Inc. (operating Teammates.ai)
+
+This product includes plugin manifests and Markdown skill files developed by
+Uktob Inc. (https://teammates.ai), licensed under the Apache License, Version 2.0.
+
+Brand Assets and Trademarks (All Rights Reserved):
+The Apache License, Version 2.0 applies solely to the plugin manifests and
+Markdown skill files in this repository. All brand assets under `assets/`
+(including the Teammates.ai logos, wordmarks, social preview, and photography)
+and all trademarks, service marks, and trade names of Uktob Inc. (including
+"Teammates.ai", "Teammates", "Uktob Inc.", and the Teammates.ai mark) are the
+exclusive property of Uktob Inc. with all rights reserved. They are included
+solely to display the official Teammates.ai plugin in supported clients,
+marketplaces, and documentation, and no license is granted for third-party
+commercial or brand reuse.
+
+Hosted Service:
+The Teammates.ai platform, autonomous teammates, and remote MCP APIs
+(https://hq.teammates.ai and https://api-hq.teammates.ai) are proprietary
+services of Uktob Inc. governed by https://teammates.ai/terms and
+https://teammates.ai/privacy.
