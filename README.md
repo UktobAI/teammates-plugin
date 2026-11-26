@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://teammates.ai/mcp"><img src="https://img.shields.io/badge/MCP-Streamable%20HTTP-0047AF?style=flat-square" alt="MCP Streamable HTTP" /></a>
   <a href="SECURITY.md"><img src="https://img.shields.io/badge/Auth-OAuth%202.1%20%2B%20PKCE-0F172A?style=flat-square" alt="OAuth 2.1 + PKCE" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-64748B?style=flat-square" alt="MIT License" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-64748B?style=flat-square" alt="Apache-2.0 License" /></a>
 </p>
 
 <p align="center">
@@ -121,8 +121,18 @@ teammates-plugin/
 ├── gemini-extension.json    # Gemini CLI extension manifest
 ├── mcp.json / mcp_config.json
 ├── skills/                  # 4 Markdown skills (routing, launch, operations, approvals)
-├── assets/                  # Brand marks and hero graphic
+├── assets/                  # Official brand marks and imagery (All Rights Reserved)
+├── LICENSE                  # Apache License 2.0 (manifests and Markdown skills)
+├── NOTICE                   # Copyright, trademark, and brand asset boundaries
 └── SECURITY.md              # Vulnerability disclosure and OAuth boundaries
 ```
+
+---
+
+## License & Brand Assets
+
+- **Plugin manifests & skills:** Licensed under the [Apache License 2.0](LICENSE) (`Copyright 2026 Uktob Inc.`).
+- **Brand assets & trademarks:** All logos, wordmarks, photography in `assets/`, and Teammates.ai trademarks are **All Rights Reserved** by **Uktob Inc.** (see [NOTICE](NOTICE)) and are included solely for displaying the official plugin in supported clients and marketplaces.
+- **Hosted service:** The Teammates.ai platform and APIs (`hq.teammates.ai`, `api-hq.teammates.ai`) are proprietary services of Uktob Inc., governed by our [Terms of Service](https://teammates.ai/terms) and [Privacy Policy](https://teammates.ai/privacy).
 
 Questions or partnership inquiries: [support@teammates.ai](mailto:support@teammates.ai)

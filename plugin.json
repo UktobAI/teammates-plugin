@@ -21,7 +21,7 @@
   },
   "homepage": "https://teammates.ai/mcp",
   "repository": "https://github.com/UktobAI/teammates-plugin",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "keywords": [
     "teammates",
     "teammates-ai",
