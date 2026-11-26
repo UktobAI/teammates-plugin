@@ -131,8 +131,8 @@ teammates-plugin/
 
 ## License & Brand Assets
 
-- **Plugin manifests & skills:** Licensed under the [Apache License 2.0](LICENSE) (`Copyright 2026 Uktob Inc.`).
-- **Brand assets & trademarks:** All logos, wordmarks, photography in `assets/`, and Teammates.ai trademarks are **All Rights Reserved** by **Uktob Inc.** (see [NOTICE](NOTICE)) and are included solely for displaying the official plugin in supported clients and marketplaces.
-- **Hosted service:** The Teammates.ai platform and APIs (`hq.teammates.ai`, `api-hq.teammates.ai`) are proprietary services of Uktob Inc., governed by our [Terms of Service](https://teammates.ai/terms) and [Privacy Policy](https://teammates.ai/privacy).
+- **Plugin manifests & skills:** Licensed under the [Apache License 2.0](LICENSE) (`Copyright 2026 Uktob, Inc. d/b/a Teammates.ai`).
+- **Brand assets & trademarks:** All logos, wordmarks, photography in `assets/`, and Teammates.ai trademarks are **All Rights Reserved** by **Uktob, Inc. d/b/a Teammates.ai** (see [NOTICE](NOTICE)) and are included solely for displaying the official plugin in supported clients and marketplaces.
+- **Hosted service:** The Teammates.ai platform and APIs (`hq.teammates.ai`, `api-hq.teammates.ai`) are proprietary services of **Uktob, Inc. d/b/a Teammates.ai**, governed by our [Terms of Service](https://teammates.ai/terms) and [Privacy Policy](https://teammates.ai/privacy).
 
 Questions or partnership inquiries: [support@teammates.ai](mailto:support@teammates.ai)
