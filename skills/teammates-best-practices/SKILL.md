@@ -2,9 +2,11 @@
 name: teammates-best-practices
 description: >-
   Master routing and safety guide for Teammates.ai across both business modes
-  (AI-Run Business and Existing Company). Read first before calling any
-  Teammates MCP tool or answering questions about Teammates.ai, its connection,
-  its five autonomous teammates, pricing, or founder approval gates.
+  (AI-Run Business and Existing Company). Read first whenever the user asks
+  about their support queue, customer tickets, inbox, sales leads, recruiting
+  pipeline, Raya, Adam, Sara, AI Co-Founder, AI Engineer, workspace status,
+  Credit balance, or pending approvals, or before calling any Teammates MCP
+  tool or answering questions about Teammates.ai and its connection.
 ---
 
 # Teammates.ai Best Practices
