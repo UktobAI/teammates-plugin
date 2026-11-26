@@ -1,10 +1,12 @@
 ---
 name: operate-with-teammates
 description: >-
-  Delegate sales prospecting (Adam), customer support knowledge and reply drafts
-  (Raya), hiring roles and candidate scorecards (Sara), ad packs, and executive
-  planning (AI Co-Founder) across both AI-Run Business and Existing Company
-  workspaces on Teammates.ai.
+  Check live operations or delegate work to Teammates.ai autonomous teammates
+  via the Teammates MCP server. Use whenever the user asks what is happening in
+  their support queue, customer inbox, or tickets (Raya), what sales outreach or
+  B2B leads are running (Adam), what hiring roles or candidates are active
+  (Sara), ad packs, or executive status and priorities (AI Co-Founder) across
+  both AI-Run Business and Existing Company workspaces.
 ---
 
 # Operate Your Business with AI Teammates

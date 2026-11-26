@@ -1,9 +1,11 @@
 ---
 name: founder-approvals
 description: >-
-  Inspect live Teammates.ai workspace status, operating mode, plan, Credit
-  balance, live website URLs, and pending founder approvals awaiting 1-tap
-  sign-off on hq.teammates.ai.
+  Inspect live Teammates.ai workspace status via the Teammates MCP server,
+  including operating mode, plan, Credit balance, live website URLs, support
+  and sales queue activity, and pending founder approvals awaiting 1-tap
+  sign-off on hq.teammates.ai. Use when the user asks how their workspace or
+  teammates are doing, what needs approval, or how many Credits remain.
 ---
 
 # Workspace Status and Founder Approvals
